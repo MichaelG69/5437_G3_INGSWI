@@ -6,5 +6,5 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    # Aqui necesitamos cambiar y poner mas funciones 
+    #Aquí necesitamos cambiar y poner más funciones.
     return render_template('ABP.html')
