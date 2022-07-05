@@ -1,2 +1,2 @@
 # SistemaEscolasticoIngSW
-Sistema Escolastico Ingenieria Software 1
+Sistema Escolástico Ingeniería Software 1
