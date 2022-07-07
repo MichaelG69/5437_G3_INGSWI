@@ -15,6 +15,10 @@ http://34.138.32.235:5002/
 user:admin
 pass:admin123
 
+### Docente:
+user:profeJirafales
+pass:donaflorinda123
+
 ### Estudiante:
 user:pepito
 pass:pepita123
