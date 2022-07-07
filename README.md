@@ -10,8 +10,11 @@
 ## Versión Actual del Sistema
 http://34.138.32.235:5002/
 ### Usuarios para Pruebas
+
+### Administrador:
 user:admin
 pass:admin123
 
+### Estudiante:
 user:pepito
 pass:pepita123
