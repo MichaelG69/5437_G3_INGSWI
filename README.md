@@ -9,6 +9,9 @@
 
 ## Versión Actual del Sistema
 http://34.138.32.235:5002/
+O en el dominio:
+http://joseignacio.xyz:5002
+
 ### Usuarios para Pruebas
 
 ### Administrador:
